@@ -1,0 +1,21 @@
+{
+  "name": "gulp-loftschool",
+  "authors": [
+    "Zar Zakharov <severenit@gmail.com>"
+  ],
+  "description": "",
+  "main": "gulpfile.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
